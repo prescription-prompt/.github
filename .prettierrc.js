@@ -13,7 +13,7 @@ module.exports = {
   jsxBracketSameLine: false,
   jsxSingleQuote: true,
   prettierPath: '',
-  printWidth: 120,
+  printWidth: 80,
   proseWrap: 'preserve',
   quoteProps: 'as-needed',
   requireConfig: false,
