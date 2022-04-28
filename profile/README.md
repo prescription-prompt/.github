@@ -16,3 +16,6 @@ Prescription Prompt is a mobile app built for IOS and Android using MongoDB, Exp
 
 ## Acknowledgments
 - [X] [NHS API](https://developer.api.nhs.uk/)
+
+## Developers
+[Gareth Dawson](https://github.com/gwdawson) | [Simon Rosellys](https://github.com/SimonRosellys) | [Adam Watson](https://github.com/AdamJWW) | [Michal Lewczuk](https://github.com/MichalLewczuk) | [Yousef Abobaker](https://github.com/YousefToast)
