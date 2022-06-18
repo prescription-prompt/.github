@@ -11,6 +11,7 @@ Our time on this project involved creating wireframes, kanban boards, lots of pa
 
 ## Useful Links
 
+- [x] [Application Video](https://youtu.be/bKshrzRY3b8)
 - [x] [Northcoders](https://northcoders.com/)
 
 ## Tools and technologies
